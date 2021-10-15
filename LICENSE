@@ -1,21 +1,60 @@
-MIT License
+Microsoft Public License (Ms-PL)
 
 Copyright (c) 2021 Sergey White
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Настоящая лицензия определяет условия использования соответствующего программного обеспечения. Если вы используете программное обеспечение, это означает ваше согласие с условиями настоящей лицензии. Если вы не согласны с условиями настоящей лицензии, не используйте программное обеспечение.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+1. Определения
+
+Термины "воспроизводить", "воспроизведение", "производные изделия" и "распространение" имеют такое же значение, как и в законодательстве США об авторском праве.
+
+"Вкладом" является оригинальный программный продукт или любое добавление или изменение программного продукта.
+
+"Участником" является любое лицо, распространяющее свой вклад на условиях настоящей лицензии.
+
+"Лицензированными патентами" являются патентные заявки участника, распространяющиеся непосредственно на его вклад.
+
+2. Предоставление прав
+
+(A) Предоставление авторского права. В соответствии с положениями настоящей лицензии, включающими условия и ограничения лицензии в разделе 3, каждый участник предоставляет вам неисключительную, действующую во всех странах, безвозмездную авторскую лицензию на воспроизведение своего вклада, подготовку производных изделий от этого вклада и распространение вклада или создаваемых вами производных изделий.
+
+(B) Предоставление патента. В соответствии с положениями настоящей лицензии, включающими условия и ограничения лицензии в разделе 3, каждый участник предоставляет вам неисключительную, действующую во всех странах, безвозмездную лицензию на условиях лицензированных патентов на создание, использование, продажу, предложение для продажи, импорт и (или) иной способ распоряжения вкладом в программное обеспечение или производных изделий от вклада в программное обеспечение.
+
+3. Условия и ограничения
+
+(A) Отсутствие лицензии на товарный знак. Настоящая лицензия не предоставляет вам права на использование имени, логотипа или товарных знаков участников.
+
+(B) В случае предъявления вами патентного притязания против какого-либо участника в отношении патентов, которые по вашему мнению нарушаются программным обеспечением, действие вашей патентной лицензии от данного участника на программное обеспечение автоматически завершается.
+
+(C) В случае распространения вами любого фрагмента программного обеспечения вы обязаны сохранять все уведомления об авторских правах, патентах, товарных знаках и установлении авторства, присутствующие в программном обеспечении.
+
+(D) В случае распространения какой-либо части программного обеспечения в виде исходного кода вы можете осуществлять распространение только на условиях настоящей лицензии путем добавления полной копии настоящей лицензии в дистрибутив. В случае распространения какой-либо части программного обеспечения в виде компилированного или объектного кода вы можете осуществлять распространение на условиях лицензии, совместимой с настоящей лицензией.
+
+(E) Программное обеспечение лицензируется на условиях "как есть". Все риски в отношении его использования возлагаются на вас. Участники не предоставляют каких-либо явных гарантий или условий. Вы можете обладать дополнительными правами потребителя, которые не могут быть изменены настоящей лицензией. В максимально допустимой законодательством вашего государства степени участники исключают подразумеваемые гарантии товарности, пригодности для какой-либо определенной цели и соблюдения авторских прав.
+
+***********************************************************
+
+This license governs use of the accompanying software. If you use the software, you accept this license. If you do not accept the license, do not use the software.
+
+1. Definitions
+
+The terms "reproduce," "reproduction," "derivative works," and "distribution" have the same meaning here as under U.S. copyright law. A "contribution" is the original software, or any additions or changes to the software. A "contributor" is any person that distributes its contribution under this license. "Licensed patents" are a contributor's patent claims that read directly on its contribution.
+
+2. Grant of Rights
+
+(A) Copyright Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free copyright license to reproduce its contribution, prepare derivative works of its contribution, and distribute its contribution or any derivative works that you create.
+
+(B) Patent Grant- Subject to the terms of this license, including the license conditions and limitations in section 3, each contributor grants you a non-exclusive, worldwide, royalty-free license under its licensed patents to make, have made, use, sell, offer for sale, import, and/or otherwise dispose of its contribution in the software or derivative works of the contribution in the software.
+
+3. Conditions and Limitations
+
+(A) No Trademark License- This license does not grant you rights to use any contributors' name, logo, or trademarks.
+
+(B) If you bring a patent claim against any contributor over patents that you claim are infringed by the software, your patent license from such contributor to the software ends automatically.
+
+(C) If you distribute any portion of the software, you must retain all copyright, patent, trademark, and attribution notices that are present in the software.
+
+(D) If you distribute any portion of the software in source code form, you may do so only under this license by including a complete copy of this license with your distribution. If you distribute any portion of the software in compiled or object code form, you may only do so under a license that complies with this license.
+
+(E) The software is licensed "as-is." You bear the risk of using it. The contributors give no express warranties, guarantees, or conditions. You may have additional consumer rights under your local laws which this license cannot change. To the extent permitted under your local laws, the contributors exclude the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
