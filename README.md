@@ -12,3 +12,5 @@
 ### Цель работы
 
 Демонстрация навыков семантической HTML вёрстки.
+
+#### [ДЕМО](https://whitesergey.github.io/landing-template-app-showcasing/)
