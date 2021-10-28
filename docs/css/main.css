@@ -18,3 +18,29 @@
   font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
+
+/* Контейнер */
+
+.main-container {
+  width: 1230px;
+  padding: 0 30px;
+  margin: 0 auto;
+  outline: 5px solid rgba(0, 255, 255, 0.7);
+  outline-offset: -5px;
+}
+
+/* Header */
+.main-header {
+  background-color: #f9fbfc;
+  outline: 5px solid rgba(177, 180, 180, 0.7);
+  outline-offset: -5px;
+}
+
+.main-header__nav {
+  display: flex;
+}
+
+/* Логотип */
+
+
+/* Кнопка */
