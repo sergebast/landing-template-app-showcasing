@@ -2,7 +2,19 @@
  * Design: Arifur Rahman Tushar (https://dribbble.com/ArifurRahman)
  * HTML Markup: Сергей Белых (Sergey White)](https://github.com/whitesergey)
 */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
 
-.page-body {
+:root {
+  --main-color-dark: #242151;
+  --main-color-gray: #616368;
+  --main-color-purple: #242151;
+  --main-color-red: #f55767;
+  --main-color-blue: #2563ff;
+  --main-color-green: #40975f;
+}
+
+.main-body {
   background-color: #ffffff;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
 }
