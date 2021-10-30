@@ -7,7 +7,7 @@
 :root {
   --main-color-dark: #242151;
   --main-color-gray: #616368;
-  --main-color-purple: #242151;
+  --main-color-purple: #242f51;
   --main-color-red: #f55767;
   --main-color-blue: #2563ff;
   --main-color-green: #40975f;
@@ -17,6 +17,12 @@
   background-color: #ffffff;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
+  font-size:16pt;
+  color: var(--main-color-dark);
+}
+
+a {
+  text-decoration: none;
 }
 
 /* Контейнер */
@@ -37,11 +43,39 @@
 }
 
 .main-header__nav {
-  display: flex;
+  display: grid;
+  grid-template-columns: 2fr 3fr 1fr;
 }
 
 /* Логотип */
+.main-logo {
+  font-size: 30pt;
+  color: var(--main-color-dark);
+  font-weight: 600;
+}
 
+.main-logo span {
+  color: #fcae61;
+}
+
+/* Верхнее меню */
+.main-header__menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  outline: 5px solid rgba(177, 180, 180, 0.7);
+  outline-offset: -5px;
+}
+
+.header-menu__item {
+
+}
+
+.header-menu__link {
+  color: var(--main-color-purple);
+}
 
 /* Кнопка */
 
