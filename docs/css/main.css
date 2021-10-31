@@ -13,12 +13,20 @@
   --main-color-green: #40975f;
 }
 
+/* Глобальные */
+.main-page {
+  height: 100%;
+}
+
 .main-body {
   background-color: #ffffff;
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   font-size:16pt;
   color: var(--main-color-dark);
+  display: grid;
+  grid-template-rows: min-content 1fr min-content;
+  align-content: start;
 }
 
 a {
@@ -52,6 +60,7 @@ a {
   font-size: 30pt;
   color: var(--main-color-dark);
   font-weight: 600;
+  line-height: 44pt;
 }
 
 .main-logo span {
@@ -78,5 +87,15 @@ a {
 }
 
 /* Кнопка */
+.main-button {
+border-radius: 28.5px;
+background-color: #2500f9;
+width: 170px;
+height 57px;
+color: #ffffff;
+display: block;
+align-items: center;
+justify-content: center;
+}
 
 /* HERO */
