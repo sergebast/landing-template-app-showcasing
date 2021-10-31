@@ -5,13 +5,36 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap");
 
 :root {
-  --main-color-dark: #242151;
+  --main-color-dark: #242f51;
   --main-color-gray: #616368;
   --main-color-purple: #242f51;
   --main-color-red: #f55767;
   --main-color-blue: #2563ff;
   --main-color-green: #40975f;
 }
+
+/* Вспомогательные */
+.uSelect {  
+  outline: 5px solid;
+  outline-offset: -5px;
+}
+
+.c_1 {
+  outline-color:  rgba(69, 69, 69, 0.8)
+}
+
+.c_2 {
+  outline-color:  rgba(75, 148, 216, 0.7)
+}
+
+.c_3 {
+  outline-color:  rgba(255, 79, 20, 0.7)
+}
+
+.c_4 {
+  outline-color:  rgba(99, 255, 20, 0.7)
+}
+
 
 /* Глобальные */
 .main-page {
@@ -39,15 +62,11 @@ a {
   width: 1230px;
   padding: 0 30px;
   margin: 0 auto;
-  outline: 5px solid rgba(0, 255, 255, 0.7);
-  outline-offset: -5px;
 }
 
 /* Header */
 .main-header {
   background-color: #f9fbfc;
-  outline: 5px solid rgba(177, 180, 180, 0.7);
-  outline-offset: -5px;
 }
 
 .main-header__nav {
@@ -57,10 +76,10 @@ a {
 
 /* Логотип */
 .main-logo {
-  font-size: 30pt;
+  font-size: 60px;
   color: var(--main-color-dark);
   font-weight: 600;
-  line-height: 44pt;
+  line-height: 60px;
 }
 
 .main-logo span {
@@ -74,8 +93,6 @@ a {
   list-style: none;
   display: flex;
   align-items: center;
-  outline: 5px solid rgba(177, 180, 180, 0.7);
-  outline-offset: -5px;
 }
 
 .header-menu__item {
